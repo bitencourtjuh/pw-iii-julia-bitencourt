@@ -1,5 +1,5 @@
 # pw-iii-julia-bitencourt
-Aulas de Programação Web III com os professores Davi Villar 
+Aulas de Programação Web III com o professor Davi Villar 
 
 <hr>
 
